@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934535847604",
+    "firebase_url": "https://miniconapp.firebaseio.com",
+    "project_id": "miniconapp",
+    "storage_bucket": "miniconapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934535847604:android:ff161d5d220fad33e3c1e1",
+        "android_client_info": {
+          "package_name": "com.ronjar.miniconapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934535847604-5irsj0via10i70ccragbvpg1964cehd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACcEOrlpX1mcZvT_T9cBhWkQ_9gkbFuy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934535847604-5irsj0via10i70ccragbvpg1964cehd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
